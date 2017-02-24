@@ -11,3 +11,5 @@ Go to the menu Run > Edit Configurations
 In the "Launch Options" relative to the folder App, choose "Specified Activity" for the option "Launch" and type the name of your activity in the option "Activity".
 
 For the current skeleton, you provide this string "org.doreille.kiosk.MainActivity".
+
+![Android Studio Configuration](Capture d’écran 2017-02-24 à 16.49.47.png)
